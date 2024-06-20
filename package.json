@@ -1,0 +1,17 @@
+{
+  "name": "tsdisposabledrill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --lib es2023,dom index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.14.6",
+    "typescript": "^5.4.5"
+  }
+}
